@@ -1,0 +1,31 @@
+{
+  "name": "Quick List",
+  "short_name": "QuickList",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/quicklist-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/quicklist-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/quicklist-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#147d65",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "categories": ["productivity"]
+}

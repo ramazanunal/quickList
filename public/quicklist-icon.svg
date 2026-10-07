@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path fill="#147d65" d="M256 28C130 28 28 130 28 256v128c0 55 45 100 100 100h128c126 0 228-102 228-228S382 28 256 28Z"/>
+  <text x="256" y="362" fill="#fff" font-family="Georgia,serif" font-size="340" text-anchor="middle">q</text>
+</svg>
